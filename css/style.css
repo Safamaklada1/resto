@@ -1,0 +1,26 @@
+body{
+	
+}
+.mainMenu{
+	margin-right:100px;
+	margin-left:100px;
+}
+#imgMain{
+	float:left;
+	display: inline-block;
+}
+body header ul{
+	float:right;
+	display:inline-block;
+	list-style:none;
+	
+}
+body header ul li{
+	float:left;
+	padding:0px 15px 0px 15px;
+	
+}
+body header ul li a{
+	color:black;
+	
+}
